@@ -67,4 +67,6 @@
 #define PICO_DEFAULT_PIO_USB_VBUSEN_STATE 0
 #endif
 
+#define CFG_TUSB_DEBUG 2
+
 #endif
